@@ -29,6 +29,10 @@ footer {
   width: 200px;
 }
 
+.name-rango {
+  min-width: 11rem;
+}
+
 .imagen-agent {
   width: 100%;
   height: 506px;

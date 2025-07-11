@@ -40,9 +40,7 @@ Para iniciar el proyecto, debes instalar las dependencias y correr tanto el fron
 
 ---
 
-### Token
+## Token
 
 Para poder editar o eliminar se requiere un token.  
 Para conseguirlo debes registrarte y luego iniciar sesión desde la aplicación.
-
----

@@ -36,7 +36,7 @@ function RankCreate() {
 
     return (
         <>
-            {msg && <div className="alert alert-info">{msg}</div>}
+            {msg && <div className="alert alert-danger">{msg}</div>}
             <h1 className="mb-4">Crear Nuevo Rango</h1>
             <form onSubmit={handleSubmit} className="bg-dark" encType="multipart/form-data">
                 <div className="mb-3">

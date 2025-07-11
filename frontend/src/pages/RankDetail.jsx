@@ -95,9 +95,9 @@ function RankDetail() {
                     <div className="d-flex flex-row align-items-center card border bg-dark">
                         <img src={rank.image} alt={rank.name} className="imagen-rango"/>
                         <div>
-                            <h1 className="border-bottom p-2 m-0">{rank.name}</h1>
+                            <h1 className="border-bottom p-2 name-rango px-3">{rank.name}</h1>
                             <div className="p-2">
-                                <h2>Acciones</h2>
+                                <h2 className=" ps-2">Acciones</h2>
                                 <button className="btn btn-warning" data-bs-toggle="modal" data-bs-target="#editRankModal">Editar</button>
                                 <button className="btn btn-danger ms-2" onClick={handleDelete}>Eliminar</button>
                             </div>

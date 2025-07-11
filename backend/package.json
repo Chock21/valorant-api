@@ -1,0 +1,28 @@
+{
+  "name": "tp1aph",
+  "version": "1.0.0",
+  "description": "API REST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Mateo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartinOscarMateo/tp1aph"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "chalk": "^5.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,33 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+nav {
+  height: 10vh;
+  
+}
+
+.logo-line p {
+  font-size: 1rem;
+  line-height: 0.8rem;
+  font-weight: 600;
+}
+
+nav a {
+  text-decoration: none;
+  color: #eee;
+}
+
+body {
+  color: #eee;
+  height: 100vh;
+}
+
+footer {
+  height: 10vh;
+}
+
+vh-80 {
+  height: 80vh;
+}

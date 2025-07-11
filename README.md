@@ -1,1 +1,6 @@
-# mateo-martin-aph-tp2
+## Información
+
+- **Alumno:** Martín Oscar Mateo  
+- **Materia:** Aplicaciones Híbridas  
+- **Docente:** Jonathan Emanuel Cruz  
+- **Comisión:** DWT4AV

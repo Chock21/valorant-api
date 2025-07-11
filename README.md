@@ -7,6 +7,7 @@
 
 ## Poner en marcha el proyecto
 
+Para iniciar el proyecto, debes instalar las dependencias y correr tanto el frontend como el backend.
 
 1. **Clonar el repositorio**
 
@@ -17,7 +18,6 @@
 
 2. **Backend**
 
-    Para iniciar el proyecto, debes instalar las dependencias y correr tanto el frontend como el backend.
     En la terminal:
 
     ```bash

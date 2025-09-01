@@ -38,8 +38,6 @@ Para iniciar el proyecto, debes instalar las dependencias y correr tanto el fron
     ```
     El frontend se ejecuta por defecto en [http://localhost:5173](http://localhost:5173).
 
----
-
 ## Token
 
 Para poder editar o eliminar se requiere un token.  

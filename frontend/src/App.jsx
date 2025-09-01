@@ -24,7 +24,7 @@ function App() {
       <nav className="d-flex justify-content-between align-items-center border-bottom border-light p-3">
         <a href="/" className="d-flex flex-row ms-5">
           <div>
-            <img src="/imgs/valorant-api.png" alt="logo" width="190px"/>
+            <img src="/valorant-api/imgs/valorant-api.png" alt="logo" width="190px"/>
           </div>
           <div className="logo-line ps-1">
               <p className="m-0">API</p>
